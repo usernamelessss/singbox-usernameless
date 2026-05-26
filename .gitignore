@@ -25,3 +25,4 @@ bulid/
 *.sublime-project
 
 **/5
+singboxgui/plugin/plugins.d.ts
